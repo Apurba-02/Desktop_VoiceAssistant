@@ -1,0 +1,22 @@
+
+# pip install -r requirements.txt
+
+pyttsx3
+SpeechRecognition
+beautifulsoup4
+requests
+datetime
+pyautogui
+os-sys
+wolframalpha
+tk
+Pillow
+time
+pygame
+pynput
+pywhatkit
+
+
+# https://developer.wolframalpha.com/access
+# https://ipapi.com/
+# https://home.openweather.co.uk/api_keys
